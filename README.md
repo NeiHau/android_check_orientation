@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 <img src="https://github.com/NeiHau/android_check_orientation/assets/81244642/9b768222-185d-4878-b072-1ef990d9feb8" height="30%" width="30%">
 
-![Screenshot_20230613-111255](https://github.com/NeiHau/android_check_orientation/assets/81244642/f667a7eb-41f4-4afe-9133-59fb9943f904)
+<img src="https://github.com/NeiHau/android_check_orientation/assets/81244642/f667a7eb-41f4-4afe-9133-59fb9943f904" width="50%">
