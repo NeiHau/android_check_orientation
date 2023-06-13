@@ -15,5 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Screenshot_20230613-111243](https://github.com/NeiHau/android_check_orientation/assets/81244642/5c1ce1df-b33f-49f3-aeab-c698917531ea)
+![Screenshot_20230613-111243](https://github.com/NeiHau/android_check_orientation/assets/81244642/5c1ce1df-b33f-49f3-aeab-c698917531ea){:height="50%" width="50%"}
 ![Screenshot_20230613-111255](https://github.com/NeiHau/android_check_orientation/assets/81244642/f667a7eb-41f4-4afe-9133-59fb9943f904)
