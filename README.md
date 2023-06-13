@@ -15,6 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="[画像のURL](https://github.com/NeiHau/android_check_orientation/assets/81244642/5c1ce1df-b33f-49f3-aeab-c698917531ea)" width="200" height="200">
+<img src="[画像のURL](![Screenshot_20230613-111243](https://github.com/NeiHau/android_check_orientation/assets/81244642/ce1dc96f-283b-4745-a1f1-d5c3904352b5))" width="300" height="300">
 
 ![Screenshot_20230613-111255](https://github.com/NeiHau/android_check_orientation/assets/81244642/f667a7eb-41f4-4afe-9133-59fb9943f904)
